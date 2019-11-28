@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: 8aa3bb2527f2c464b9b9617b55e1cdd8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Fire Emblem Heroes - Muspell Temple_0
+    21300002: Mobile - Fire Emblem Heroes - Muspell Temple_1
+    21300004: Mobile - Fire Emblem Heroes - Muspell Temple_2
+    21300006: Mobile - Fire Emblem Heroes - Muspell Temple_3
+    21300008: Mobile - Fire Emblem Heroes - Muspell Temple_4
+    21300010: Mobile - Fire Emblem Heroes - Muspell Temple_5
+    21300012: Mobile - Fire Emblem Heroes - Muspell Temple_6
+    21300014: Mobile - Fire Emblem Heroes - Muspell Temple_7
+    21300016: Mobile - Fire Emblem Heroes - Muspell Temple_8
+    21300018: Mobile - Fire Emblem Heroes - Muspell Temple_9
+    21300020: Mobile - Fire Emblem Heroes - Muspell Temple_10
+    21300022: Mobile - Fire Emblem Heroes - Muspell Temple_11
+    21300024: Mobile - Fire Emblem Heroes - Muspell Temple_12
+    21300026: Mobile - Fire Emblem Heroes - Muspell Temple_13
+    21300028: Mobile - Fire Emblem Heroes - Muspell Temple_14
+    21300030: Mobile - Fire Emblem Heroes - Muspell Temple_15
+    21300032: Mobile - Fire Emblem Heroes - Muspell Temple_16
+    21300034: Mobile - Fire Emblem Heroes - Muspell Temple_17
+    21300036: Mobile - Fire Emblem Heroes - Muspell Temple_18
+    21300038: Mobile - Fire Emblem Heroes - Muspell Temple_19
+    21300040: Mobile - Fire Emblem Heroes - Muspell Temple_20
+    21300042: Mobile - Fire Emblem Heroes - Muspell Temple_21
+    21300044: Mobile - Fire Emblem Heroes - Muspell Temple_22
+    21300046: Mobile - Fire Emblem Heroes - Muspell Temple_23
+    21300048: Mobile - Fire Emblem Heroes - Muspell Temple_24
+    21300050: Mobile - Fire Emblem Heroes - Muspell Temple_25
+    21300052: Mobile - Fire Emblem Heroes - Muspell Temple_26
+    21300054: Mobile - Fire Emblem Heroes - Muspell Temple_27
+    21300056: Mobile - Fire Emblem Heroes - Muspell Temple_28
+    21300058: Mobile - Fire Emblem Heroes - Muspell Temple_29
+    21300060: Mobile - Fire Emblem Heroes - Muspell Temple_30
+    21300062: Mobile - Fire Emblem Heroes - Muspell Temple_31
+    21300064: Mobile - Fire Emblem Heroes - Muspell Temple_32
+    21300066: Mobile - Fire Emblem Heroes - Muspell Temple_33
+    21300068: Mobile - Fire Emblem Heroes - Muspell Temple_34
+    21300070: Mobile - Fire Emblem Heroes - Muspell Temple_35
+    21300072: Mobile - Fire Emblem Heroes - Muspell Temple_36
+    21300074: Mobile - Fire Emblem Heroes - Muspell Temple_37
+    21300076: Mobile - Fire Emblem Heroes - Muspell Temple_38
+    21300078: Mobile - Fire Emblem Heroes - Muspell Temple_39
+    21300080: Mobile - Fire Emblem Heroes - Muspell Temple_40
+    21300082: Mobile - Fire Emblem Heroes - Muspell Temple_41
+    21300084: Mobile - Fire Emblem Heroes - Muspell Temple_42
+    21300086: Mobile - Fire Emblem Heroes - Muspell Temple_43
+    21300088: Mobile - Fire Emblem Heroes - Muspell Temple_44
+    21300090: Mobile - Fire Emblem Heroes - Muspell Temple_45
+    21300092: Mobile - Fire Emblem Heroes - Muspell Temple_46
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 2048
+        height: 903
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29e2d65138cf94ba962cc6bee3034f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 859
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2ff574c61c294bb390385bd764ed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_2
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 837
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed82cd27586fd4abd9c207f3fbdae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 808
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c030a21f4f48b4b9491f070a239271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 803
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97d9d331e01a640b8d0e14cf7bc491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 771
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42da56a5baa128147a350e9e90601325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 704
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06866aa7defa0c348861e03146cf00cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 721
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20cc3fa3e693b4c8de28a67ea719ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 696
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27ef8aab0438049b017a1df45384c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_9
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 683
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092113b6c230e541abea0e81c13e112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_10
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 637
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623f66e6184c9c41af7a9c769f7e30e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_11
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 664
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0f4cd7f950084aa3ff561422c6ec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 581
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d983dbf21895d944ab0bee19c03868a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 583
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc3a2a138b651f4b8891f806eed0e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_14
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 591
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11753e82bcfe5947b7d9dfe4044c610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_15
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 552
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4c99e8bd7b13645a05119d229f0699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_16
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 535
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7b21c0f54dcf849a07a47a233d26ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 511
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd292ae9b95988e4985508616eb4846c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_18
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 471
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833db2ffc266ace49ad5d28ea63dd715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 487
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e370c7749c3b4a4e8f50fec10bb0a1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d05b80596847ee4f8d85ce9c1ebc76a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_21
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 432
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e861972eef73c418ac3cad922ec1f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_22
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 0
+        width: 502
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809045c7b94dd749890347821cda07c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_23
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 0
+        width: 822
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5a867c0c935c4ba77adff0f74dbd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_24
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 365
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a6df3e2af5a741b02a69cfb2ca4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_25
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 349
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f233d100df2643bd6e1cb6f1310ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_26
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 331
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e498c3d591cb4a8918bfbb1bc9086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 311
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed616c36618b4b64487c39fdaa001d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 295
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057848b81eac8ae4f8294ddfddc61a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_29
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 289
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8045130a081354ebbde5ffa6551fc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_30
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 261
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d9d81c0da3404d880458a1dd3d119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 224
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f130b92431a64aa972ddc1a81b8c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_32
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 240
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757504fa1540a14ebe37ec2df86707b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 208
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a8be6d22dd30243a5a8bf6f4f09f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_34
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 199
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69026e3a289ab3448885154ea6873bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_35
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 217
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b585c341a949bb841aebc65611e12a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_36
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33644ed94cd42745873f742b41e4067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_37
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 160
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9caaaa197777459e7d6652276a0b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_38
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 133
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774339518d63b440be3d5624b603d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_39
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 127
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2ee4ec9d078d34e825af678be3ca5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_40
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73a86dc9d2c19344b92e5e3dd54e05d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 79
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f78d5d0fc8d06428c795f1c751b8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 73
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1cb0cdcf152624687e16275de9042c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2183
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e20fe272af74c4ea0408889a26c781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_44
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 55
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4731de94f956794d8df5f128f828c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 2040
+        height: 896
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab2519a32d76b46b3881dbe4aa4dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Fire Emblem Heroes - Muspell Temple_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 899
+        width: 2048
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851ba4c4f1bba547b62461c6e65fe60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a3d41aaf15d012c4391ba40f6517a267
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

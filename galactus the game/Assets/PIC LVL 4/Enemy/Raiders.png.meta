@@ -1,0 +1,3459 @@
+fileFormatVersion: 2
+guid: 764f2af5024bcb347916febc1bffcd37
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Captain Claw - Cutthroat_0
+    21300002: PC Computer - Captain Claw - Cutthroat_1
+    21300004: PC Computer - Captain Claw - Cutthroat_2
+    21300006: PC Computer - Captain Claw - Cutthroat_3
+    21300008: PC Computer - Captain Claw - Cutthroat_4
+    21300010: PC Computer - Captain Claw - Cutthroat_5
+    21300012: PC Computer - Captain Claw - Cutthroat_6
+    21300014: PC Computer - Captain Claw - Cutthroat_7
+    21300016: PC Computer - Captain Claw - Cutthroat_8
+    21300018: PC Computer - Captain Claw - Cutthroat_9
+    21300020: PC Computer - Captain Claw - Cutthroat_10
+    21300022: PC Computer - Captain Claw - Cutthroat_11
+    21300024: PC Computer - Captain Claw - Cutthroat_12
+    21300026: PC Computer - Captain Claw - Cutthroat_13
+    21300028: PC Computer - Captain Claw - Cutthroat_14
+    21300030: PC Computer - Captain Claw - Cutthroat_15
+    21300032: PC Computer - Captain Claw - Cutthroat_16
+    21300034: PC Computer - Captain Claw - Cutthroat_17
+    21300036: PC Computer - Captain Claw - Cutthroat_18
+    21300038: PC Computer - Captain Claw - Cutthroat_19
+    21300040: PC Computer - Captain Claw - Cutthroat_20
+    21300042: PC Computer - Captain Claw - Cutthroat_21
+    21300044: PC Computer - Captain Claw - Cutthroat_22
+    21300046: PC Computer - Captain Claw - Cutthroat_23
+    21300048: PC Computer - Captain Claw - Cutthroat_24
+    21300050: PC Computer - Captain Claw - Cutthroat_25
+    21300052: PC Computer - Captain Claw - Cutthroat_26
+    21300054: PC Computer - Captain Claw - Cutthroat_27
+    21300056: PC Computer - Captain Claw - Cutthroat_28
+    21300058: PC Computer - Captain Claw - Cutthroat_29
+    21300060: PC Computer - Captain Claw - Cutthroat_30
+    21300062: PC Computer - Captain Claw - Cutthroat_31
+    21300064: PC Computer - Captain Claw - Cutthroat_32
+    21300066: PC Computer - Captain Claw - Cutthroat_33
+    21300068: PC Computer - Captain Claw - Cutthroat_34
+    21300070: PC Computer - Captain Claw - Cutthroat_35
+    21300072: PC Computer - Captain Claw - Cutthroat_36
+    21300074: PC Computer - Captain Claw - Cutthroat_37
+    21300076: PC Computer - Captain Claw - Cutthroat_38
+    21300078: PC Computer - Captain Claw - Cutthroat_39
+    21300080: PC Computer - Captain Claw - Cutthroat_40
+    21300082: PC Computer - Captain Claw - Cutthroat_41
+    21300084: PC Computer - Captain Claw - Cutthroat_42
+    21300086: PC Computer - Captain Claw - Cutthroat_43
+    21300088: PC Computer - Captain Claw - Cutthroat_44
+    21300090: PC Computer - Captain Claw - Cutthroat_45
+    21300092: PC Computer - Captain Claw - Cutthroat_46
+    21300094: PC Computer - Captain Claw - Cutthroat_47
+    21300096: PC Computer - Captain Claw - Cutthroat_48
+    21300098: PC Computer - Captain Claw - Cutthroat_49
+    21300100: PC Computer - Captain Claw - Cutthroat_50
+    21300102: PC Computer - Captain Claw - Cutthroat_51
+    21300104: PC Computer - Captain Claw - Cutthroat_52
+    21300106: PC Computer - Captain Claw - Cutthroat_53
+    21300108: PC Computer - Captain Claw - Cutthroat_54
+    21300110: PC Computer - Captain Claw - Cutthroat_55
+    21300112: PC Computer - Captain Claw - Cutthroat_56
+    21300114: PC Computer - Captain Claw - Cutthroat_57
+    21300116: PC Computer - Captain Claw - Cutthroat_58
+    21300118: PC Computer - Captain Claw - Cutthroat_59
+    21300120: PC Computer - Captain Claw - Cutthroat_60
+    21300122: PC Computer - Captain Claw - Cutthroat_61
+    21300124: PC Computer - Captain Claw - Cutthroat_62
+    21300126: PC Computer - Captain Claw - Cutthroat_63
+    21300128: PC Computer - Captain Claw - Cutthroat_64
+    21300130: PC Computer - Captain Claw - Cutthroat_65
+    21300132: PC Computer - Captain Claw - Cutthroat_66
+    21300134: PC Computer - Captain Claw - Cutthroat_67
+    21300136: PC Computer - Captain Claw - Cutthroat_68
+    21300138: PC Computer - Captain Claw - Cutthroat_69
+    21300140: PC Computer - Captain Claw - Cutthroat_70
+    21300142: PC Computer - Captain Claw - Cutthroat_71
+    21300144: PC Computer - Captain Claw - Cutthroat_72
+    21300146: PC Computer - Captain Claw - Cutthroat_73
+    21300148: PC Computer - Captain Claw - Cutthroat_74
+    21300150: PC Computer - Captain Claw - Cutthroat_75
+    21300152: PC Computer - Captain Claw - Cutthroat_76
+    21300154: PC Computer - Captain Claw - Cutthroat_77
+    21300156: PC Computer - Captain Claw - Cutthroat_78
+    21300158: PC Computer - Captain Claw - Cutthroat_79
+    21300160: PC Computer - Captain Claw - Cutthroat_80
+    21300162: PC Computer - Captain Claw - Cutthroat_81
+    21300164: PC Computer - Captain Claw - Cutthroat_82
+    21300166: PC Computer - Captain Claw - Cutthroat_83
+    21300168: PC Computer - Captain Claw - Cutthroat_84
+    21300170: PC Computer - Captain Claw - Cutthroat_85
+    21300172: PC Computer - Captain Claw - Cutthroat_86
+    21300174: PC Computer - Captain Claw - Cutthroat_87
+    21300176: PC Computer - Captain Claw - Cutthroat_88
+    21300178: PC Computer - Captain Claw - Cutthroat_89
+    21300180: PC Computer - Captain Claw - Cutthroat_90
+    21300182: PC Computer - Captain Claw - Cutthroat_91
+    21300184: PC Computer - Captain Claw - Cutthroat_92
+    21300186: PC Computer - Captain Claw - Cutthroat_93
+    21300188: PC Computer - Captain Claw - Cutthroat_94
+    21300190: PC Computer - Captain Claw - Cutthroat_95
+    21300192: PC Computer - Captain Claw - Cutthroat_96
+    21300194: PC Computer - Captain Claw - Cutthroat_97
+    21300196: PC Computer - Captain Claw - Cutthroat_98
+    21300198: PC Computer - Captain Claw - Cutthroat_99
+    21300200: PC Computer - Captain Claw - Cutthroat_100
+    21300202: PC Computer - Captain Claw - Cutthroat_101
+    21300204: PC Computer - Captain Claw - Cutthroat_102
+    21300206: PC Computer - Captain Claw - Cutthroat_103
+    21300208: PC Computer - Captain Claw - Cutthroat_104
+    21300210: PC Computer - Captain Claw - Cutthroat_105
+    21300212: PC Computer - Captain Claw - Cutthroat_106
+    21300214: PC Computer - Captain Claw - Cutthroat_107
+    21300216: PC Computer - Captain Claw - Cutthroat_108
+    21300218: PC Computer - Captain Claw - Cutthroat_109
+    21300220: PC Computer - Captain Claw - Cutthroat_110
+    21300222: PC Computer - Captain Claw - Cutthroat_111
+    21300224: PC Computer - Captain Claw - Cutthroat_112
+    21300226: PC Computer - Captain Claw - Cutthroat_113
+    21300228: PC Computer - Captain Claw - Cutthroat_114
+    21300230: PC Computer - Captain Claw - Cutthroat_115
+    21300232: PC Computer - Captain Claw - Cutthroat_116
+    21300234: PC Computer - Captain Claw - Cutthroat_117
+    21300236: PC Computer - Captain Claw - Cutthroat_118
+    21300238: PC Computer - Captain Claw - Cutthroat_119
+    21300240: PC Computer - Captain Claw - Cutthroat_120
+    21300242: PC Computer - Captain Claw - Cutthroat_121
+    21300244: PC Computer - Captain Claw - Cutthroat_122
+    21300246: PC Computer - Captain Claw - Cutthroat_123
+    21300248: PC Computer - Captain Claw - Cutthroat_124
+    21300250: PC Computer - Captain Claw - Cutthroat_125
+    21300252: PC Computer - Captain Claw - Cutthroat_126
+    21300254: PC Computer - Captain Claw - Cutthroat_127
+    21300256: PC Computer - Captain Claw - Cutthroat_128
+    21300258: PC Computer - Captain Claw - Cutthroat_129
+    21300260: PC Computer - Captain Claw - Cutthroat_130
+    21300262: PC Computer - Captain Claw - Cutthroat_131
+    21300264: PC Computer - Captain Claw - Cutthroat_132
+    21300266: PC Computer - Captain Claw - Cutthroat_133
+    21300268: PC Computer - Captain Claw - Cutthroat_134
+    21300270: PC Computer - Captain Claw - Cutthroat_135
+    21300272: PC Computer - Captain Claw - Cutthroat_136
+    21300274: PC Computer - Captain Claw - Cutthroat_137
+    21300276: PC Computer - Captain Claw - Cutthroat_138
+    21300278: PC Computer - Captain Claw - Cutthroat_139
+    21300280: PC Computer - Captain Claw - Cutthroat_140
+    21300282: PC Computer - Captain Claw - Cutthroat_141
+    21300284: PC Computer - Captain Claw - Cutthroat_142
+    21300286: PC Computer - Captain Claw - Cutthroat_143
+    21300288: PC Computer - Captain Claw - Cutthroat_144
+    21300290: PC Computer - Captain Claw - Cutthroat_145
+    21300292: PC Computer - Captain Claw - Cutthroat_146
+    21300294: PC Computer - Captain Claw - Cutthroat_147
+    21300296: PC Computer - Captain Claw - Cutthroat_148
+    21300298: PC Computer - Captain Claw - Cutthroat_149
+    21300300: PC Computer - Captain Claw - Cutthroat_150
+    21300302: PC Computer - Captain Claw - Cutthroat_151
+    21300304: PC Computer - Captain Claw - Cutthroat_152
+    21300306: PC Computer - Captain Claw - Cutthroat_153
+    21300308: PC Computer - Captain Claw - Cutthroat_154
+    21300310: PC Computer - Captain Claw - Cutthroat_155
+    21300312: PC Computer - Captain Claw - Cutthroat_156
+    21300314: PC Computer - Captain Claw - Cutthroat_157
+    21300316: PC Computer - Captain Claw - Cutthroat_158
+    21300318: PC Computer - Captain Claw - Cutthroat_159
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 806
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22cff29fc126c149965a2ac00c013ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 806
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21137a3ded7b776478f9ef147492d414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 806
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d88b886f7e23f4a966ede90933a4d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 806
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fce3a31b8dc7d949a47917aa4cb3527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 806
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd1c52351d7b964bbadbe915389f45e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 806
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3ca00206723f4893f5672cb360b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 806
+        width: 51
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e4ec94d8e7984796f41f430730db9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 806
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98371cc802234e9418a824734597f911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 805
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be09150e6e03348ad83e840eea561a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 806
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacbfbe66875ec439e75f5b66ca8696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_10
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 806
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d531cf694afc94e9c7c803a599f7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_11
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 848
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e08406a584a4346901927a84e2eff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_12
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 848
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f76a222c49cd4b842879ec34e92a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab016d7cbf3434e4f90cc3d7c3f6ca60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 848
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7df29913f9d3044da53f2055e109e79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_15
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 846
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107642fb996cb374c9e0b5b0f059afb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 702
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327ac7dabc304e418f32cda504def8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 702
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa16d3efde62bf419b95d36850dd8e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 701
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed4fc24b64e387469a81ee4eafd8267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 701
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a71338de47032a4c92ff875c34e8a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 744
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff7560cec3147449edcfc6c4710eb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 744
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b0b7507829d042955f99550f2d154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 594
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ff52b4b5396d409ea28815d854d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 594
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad3c8c5f02cac4f880c0ea4a80d87c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_24
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 594
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365ad4f904867944b17c78ea2db66b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 594
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b73686fe5a0a9444a324d11ecec5a0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 594
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c27f942d13d54697eeeac903e395e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 594
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1fb3b0eb7f69a40bdcab9cf7f93bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_28
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 627
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d379a0719714041aabd14c997f04b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_29
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 627
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9cd20953fb0d40a0f79c93975d3cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_30
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a583c1d7ede674048b6bb20a9aa4ab9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_31
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 627
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91da3eb742a63b45b2c3b2382bd3456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 496
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54e31c9d6613946bcb47f7330da029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 496
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12e46d373048f43b88f599fe25d7c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 496
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ab0bf5fd4e004d9a7b90f97b3db36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 496
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d98810253e5d4abe9edc122e5979b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 496
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c746636d5463c6f4ebb4dbf96d14c5e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 496
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c01240909ab2e044b970e212030a72a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_38
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 496
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afb102b4727b254a83a8ee7d9e86d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 496
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3abdce505e4bc94f847ad919bfa8130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_40
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 536
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa522d81ec8e649bed082406ab7389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_41
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaaf4b4a830e5045a9e21ff561333c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_42
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 534
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e965047cce574799e1040647185c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_43
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 534
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a9fdc22d329e84bbd8c35d63cb312e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_44
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940139d4b5be674cb7a6af18509c026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_45
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 536
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542438326e05ad949956ccae4b3e0a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_46
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a9c696c379ab42ab391e83104cf45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_47
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 536
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e385e464a526e6741a1ac281eb281400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_48
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 536
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d212e7abd1584e91570c756d2c9eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_49
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd79b641e74524c94a96ba019a857e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_50
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 536
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71075645dea89e4d95b14e2e395797d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 358
+        width: 71
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff96a87de12a2a4ca21c1e727b0fadf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 358
+        width: 70
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ffae98c2101e4dbb475ead40e36d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 358
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ae33fa5de82b48935953e7b8a0958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 389
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2849a1c3c70f94d97443c8236ab922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 389
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0608489dd02ee7746b6c05a515cdee50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_56
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 389
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce84c08ae2e7ce46ba91167ad592ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_57
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 389
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b0bc399719d7c4a99d97f9e512b8ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 389
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e7a24f30c89145ba563bbe20fe4be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 358
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8acec291d1504fbd2989f61e72ee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_60
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 358
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1a705f9d32ab4ea476a6c033ca1e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_61
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 358
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e87fa783e2d544db1199c2ec94d5e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_62
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 397
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911b83672159f0498382019beba6e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_63
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 397
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253368454b030e54197d6b8ac176ec27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_64
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 397
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f2661de6b7024cb24ca2bc61d6d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_65
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 397
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b93a3d1071064d4ea19a7b6afb964ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_66
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 396
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8941955a4fe34eae8be0c7581167e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_67
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 397
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed3cfd84c70ff40ad2109f602d89e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_68
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 397
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8a2ac1aacae24384ec99837353703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_69
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 397
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33762d2622d91c74696ddab2d76607ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_70
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 395
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce941cc5c78ee41be68f558523f01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 397
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ee830dd412934ca518a6176a36d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_72
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 397
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba007fbe2ee63774ab1457502f0c8dd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_73
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 395
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911997acf0e9564eb9d01ba65c5491d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_74
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 397
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c449a9613b15f541b2892bf07a48e95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_75
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 396
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b917074cd73262140a7f97efb83b70c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55991686cdbcc7041a63bfa935c8b2f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535cfb383a22fc4c85fdb8e12fa1c3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 389
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31db83070a950c429e816b8ba189d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_79
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67839db96299e8048a03d2b72cfece2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 223
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c7f672e79cbfc4d8b2ccbbd1f1608b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 223
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354897dc1332b0c43b26fc1bde76616b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_82
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 223
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030dace4d265a648aeab25907e2f6ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_83
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 223
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d386b7dc9086c458ed14a6fb293232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba842ce60dad844b8183d5e6dcce54d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_85
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cde0f68ea8fbd4b9ec7127a7583028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_86
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 271
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f6081843d451549bdef4e7af123c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_87
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 169
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5829970fff85642948a7439ead4956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_88
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 198
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ee6c52ea5f5340a7ada45eea1d798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_89
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccee212ad0eb484a9152a620ca5054c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_90
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 198
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55eb0bd3e86444cb1d3c89998f22b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_91
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 198
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af8e89e24779e4ab1ceac6a77e1153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_92
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 198
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c6e0c2c5cd3e41b5cca4a1c84aff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_93
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 198
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a77b5512eebb4982ac8c3387869e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_94
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 198
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef2fc746ad9a14986ee6f900884790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_95
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 198
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91359e250781b764f8438d2608d966f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_96
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 198
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096187c8f198dbb4a98c50467fc87b01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_97
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 198
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d566bc9edd0a6144dbb6c8bbc41ef37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e44751dd139a14ea89dc12d9103d1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_99
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 87
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70490f1452406b745bb1ded716fdef00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_100
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 88
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c327c0505a60448cc2b44dedd2740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_101
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 133
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f608e25d8013cc408f85d4f38cb628e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_102
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2a9bf0e3ca6d448edbaa22ddfdc76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_103
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 135
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5b976c9515e245bc19707aea9b962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_104
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc75340159045041921112f18b12790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 122
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e2aa554f9c3024bb94677ce3b3d711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 111
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba64aef74eae74f9a0a9998278967b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_107
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc06feabd1d5d4f8bfea8f3fe444b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_108
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1
+        width: 108
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d3dc5d8ecc22040873aa1ed8bca383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_109
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 58
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c37194e004f94fb10ac8aac02cc0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_110
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 55
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5461d41a7a8734418b3c262f6bf81b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_111
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 55
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d594827fcb7adc240aef21356b4c80d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_112
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9605222b5fba554bb2af29e9eb48ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_113
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 58
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d150ad68c0be3249b0cbf37bbd6bae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_114
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 58
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1240177be3114624e80a74a701a2f9eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_115
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305623483212b5469b888c821f464d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_116
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 55
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eec0346690d1146812ed16f50cb47a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_117
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef5d6ef155772e449bd722c91617a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_118
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 58
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0eaf0550f17bb4d94e12e376ed872a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_119
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c915bd298b97efa4bbf5a81fa3ec1064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_120
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 58
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2a76023ebbbe488afae6e17807ce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_121
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 58
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee06b7eeb93ebb48aed9b6c964d0c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_122
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 58
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2aa8208a416248993e7927b555f8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_123
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 98
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be36b67508452d04093f00c4f753440c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_124
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 40
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4267844f5549c2d43a52f60519d646bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_125
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4bdeb12d3da849a30c4d0f27187ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_126
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 40
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc454e057427ca3468d2806f63b87450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_127
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 40
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0405d732005d84bb0e9ea88c843224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_128
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337894aa7cd5ca4f913a47f4972f3a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_129
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2056df79c9cc110469473aa9dced37ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_130
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 40
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8356652bcb06f049b6c86fa7647aaba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_131
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 40
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610682d5105dd246b3ea247a6a51a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_132
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e55f629257ac48bd4e7b0e2295c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_133
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2277cf364ebcd3144945c91630f265a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_134
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 40
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e931edb35abb84b8e6cba641a582ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_135
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 40
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a7127812ab054eb5c472bba191681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_136
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 40
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d60b3c8af3333a45900bd9c7710cf65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_137
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e427b882a8aaef546b4ca2bf1144ead1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_138
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4963610ba3ba4a3468e39fa7402cefe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_139
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acd9da97627fa4899526bb3c3ae1d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_140
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bdd6a63f196e247869e4b38ed07914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_141
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e81915646a0746bb2965a52e9ac75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_142
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b26f4cc10b154a86b2903cddb2f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_143
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3371eb7f01157e41b79490f58f462ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_144
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc943a204379c4dac8c68de6c42466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_145
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ac251773d8f904990b598fbb9dfa39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_146
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9cc2d7365fe0c4e9ac17cca2e79506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_147
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 19
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d095a749a78c4abea23a289b8fc7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_148
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb356ab9f743645419c65bf06c3d23fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_149
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e251b67a812014198bcfee685c188b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_150
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3b92f25d44c274f94e5f8e6e53e461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_151
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 22
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14094014b1d60c54b9198a10a45bac88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_152
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a07e9c4030df5469d59a4870751b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_153
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587d1f4b1cf096246822f8abd2e80a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_154
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 22
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc0db23c6597e543a26c5a7a09a9f9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_155
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842af132295dc3d4ea26f20dfeb97649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_156
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 22
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a5c6cb2396d82429251e3e00202993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_157
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 22
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157f9e711e5c7d74fa4f027ec0553f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_158
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31014d966d552d54d9ec1d0d67ede9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Captain Claw - Cutthroat_159
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 19
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f675b838769349bf962067004dd08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0dd812bf1d7e3c745b38833c81deaffb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
