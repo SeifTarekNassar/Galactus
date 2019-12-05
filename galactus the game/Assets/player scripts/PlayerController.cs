@@ -6,15 +6,16 @@ public class PlayerController : MonoBehaviour {
     public float MoveSpeed = 6f;
     public float jumphight = 4f;
     bool isFacingRight;
-    public KeyCode Spacebar;
+    public KeyCode Space;
     public KeyCode L;
     public KeyCode R;
-    public bool grounded;
+    bool grounded;
     public Transform groundcheck;
     public float groundcheckRadius;
     public LayerMask whatsGround;
     private Animator anim;
 
+ 
 	void Start () {
       //  anim = GetComponent<Animator>();
         isFacingRight = true;
@@ -25,7 +26,8 @@ public class PlayerController : MonoBehaviour {
         //anim.SetFloat("speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
        // anim.SetBool("Ground", grounded);
      //   anim.SetBool("Jump", Input.GetKey(Spacebar));
-        if (Input.GetKeyDown(Spacebar) && grounded)
+      
+        if (Input.GetKeyDown(Space) && grounded)
         {
             jump();
         }
@@ -56,12 +58,12 @@ public class PlayerController : MonoBehaviour {
     // flip function
     void flip()
     {
-        transform.localScale = new Vector3(-(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        transform.Rotate(0f, 180f, 0f);
     }
    // jump function
     void jump()
     {
-        GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumphight);
+        GetComponent<Rigidbody2D>().velocity = Vector2.up *jumphight;
     }
 
 }
