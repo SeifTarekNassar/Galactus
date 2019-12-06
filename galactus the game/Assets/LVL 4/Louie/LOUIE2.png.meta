@@ -69,6 +69,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
@@ -76,7 +87,7 @@ TextureImporter:
     physicsShape: []
     bones:
     - name: root
-      position: {x: 110.63293, y: 204.59917, z: 4}
+      position: {x: 109.62586, y: 203.59666, z: 4}
       rotation: {x: 0, y: 0, z: 0.69959915, w: 0.7145356}
       length: 60.822086
       parentId: -1

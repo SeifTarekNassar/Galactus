@@ -122,12 +122,12 @@ GameObject:
   m_Component:
   - component: {fileID: 4495420}
   - component: {fileID: 4495419}
-  - component: {fileID: 4495418}
   - component: {fileID: 4495425}
   - component: {fileID: 4495424}
   - component: {fileID: 4495423}
   - component: {fileID: 4495422}
   - component: {fileID: 4495421}
+  - component: {fileID: 4495418}
   m_Layer: 0
   m_Name: LOUIE2
   m_TagString: Untagged
