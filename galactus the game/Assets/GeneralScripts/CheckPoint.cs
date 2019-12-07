@@ -13,4 +13,11 @@ public class CheckPoint : MonoBehaviour {
 	void Update () {
 		
 	}
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "Player")
+        {
+            FindObjectOfType<LvlManager>().CurrentCheckpoint = this.gameObject;
+        }
+    }
 }
