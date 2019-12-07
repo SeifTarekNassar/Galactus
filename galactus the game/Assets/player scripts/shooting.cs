@@ -8,16 +8,33 @@ public class shooting : MonoBehaviour {
     public int damage = 30;
     public LineRenderer line;
 	// Use this for initialization
+    bool shot;
+    private Animator anim;
+   
 	void Start () {
-		
+        anim = GetComponent<Animator>();
+       
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetButtonDown("Fire1"))
+        shot = false;
+        anim.SetBool("Shoot", shot);
+        if (Input.GetButtonDown("Fire1") )
+        {
+            
+            StartCoroutine(MyCoroutine());
+           
+     
+
+        }
+       
+        if (Input.GetButtonDown("Fire1") && Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x) >0.1 )
         {
             StartCoroutine( shoot());
         }
+
+
 	}
     IEnumerator shoot()
     {
@@ -26,7 +43,7 @@ public class shooting : MonoBehaviour {
         {
             Debug.Log(hitinfo.transform.name);
        
-       // Instantiate(impacteffect, hitinfo.point, Quaternion.identity);
+       //Instantiate(impacteffect, hitinfo.point, Quaternion.identity);
         line.SetPosition(0,firepoint.position);
         line.SetPosition(1, hitinfo.point);
         }
@@ -38,5 +55,17 @@ public class shooting : MonoBehaviour {
         line.enabled = true;
         yield return 0;
         line.enabled = false;
+    }
+
+    IEnumerator MyCoroutine()
+    {
+        //This is a coroutine
+
+        shot = true;
+        anim.SetBool("Shoot", shot);
+        yield return 0;    //Wait one frame
+        yield return 0; 
+        StartCoroutine(shoot());
+        yield return 0; 
     }
 }

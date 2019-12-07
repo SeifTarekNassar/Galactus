@@ -9,7 +9,10 @@ public class PlayerController : MonoBehaviour {
     public KeyCode Space;
     public KeyCode L;
     public KeyCode R;
-    bool grounded;
+    public bool grounded;
+    
+
+
     public Transform groundcheck;
     public float groundcheckRadius;
     public LayerMask whatsGround;
@@ -17,15 +20,15 @@ public class PlayerController : MonoBehaviour {
 
  
 	void Start () {
-      //  anim = GetComponent<Animator>();
+        anim = GetComponent<Animator>();
         isFacingRight = true;
 	}
 	
 	
 	void Update () {
-        //anim.SetFloat("speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
-       // anim.SetBool("Ground", grounded);
-     //   anim.SetBool("Jump", Input.GetKey(Spacebar));
+        anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
+       anim.SetBool("Ground", grounded);
+      // anim.SetBool("Jump", Input.GetKey(Space));
       
         if (Input.GetKeyDown(Space) && grounded)
         {

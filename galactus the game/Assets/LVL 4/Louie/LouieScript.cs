@@ -73,7 +73,7 @@ public class LouieScript : MonoBehaviour {
 			{
 			
 			melee = true;
-			FindObjectOfType<takedamage>().takeDamage(damage);	
+			FindObjectOfType<PlayerStats>().takedamage(damage);	
 			}			
 		}
 
