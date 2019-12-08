@@ -7,7 +7,8 @@ public class shooting : MonoBehaviour {
    // public GameObject impacteffect;
     public int damage = 30;
     public LineRenderer line;
-	// Use this for initialization
+
+    AudioClip firesound;
     bool shot;
     private Animator anim;
    
@@ -16,7 +17,7 @@ public class shooting : MonoBehaviour {
        
 	}
 	
-	// Update is called once per frame
+	
 	void Update () {
         shot = false;
         anim.SetBool("Shoot", shot);
@@ -24,7 +25,7 @@ public class shooting : MonoBehaviour {
         {
             
             StartCoroutine(MyCoroutine());
-           
+            AudioManager.instance.RandomizeSfx(firesound, firesound);
      
 
         }

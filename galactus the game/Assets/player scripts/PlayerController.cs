@@ -18,6 +18,10 @@ public class PlayerController : MonoBehaviour {
     public LayerMask whatsGround;
     private Animator anim;
 
+    public AudioClip jump1;
+    public AudioClip jump2;
+    public AudioClip walk;
+    public AudioClip walk2;
  
 	void Start () {
         anim = GetComponent<Animator>();
@@ -37,6 +41,7 @@ public class PlayerController : MonoBehaviour {
         if (Input.GetKey(L))
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(-MoveSpeed, GetComponent<Rigidbody2D>().velocity.y);
+            AudioManager.instance.RandomizeSfx(walk, walk2);
             if (isFacingRight)
             {
                 flip();
@@ -46,6 +51,7 @@ public class PlayerController : MonoBehaviour {
         if (Input.GetKey(R))
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(MoveSpeed, GetComponent<Rigidbody2D>().velocity.y);
+            AudioManager.instance.RandomizeSfx(walk, walk2);
             if (!isFacingRight)
             {
                 flip();
@@ -67,6 +73,7 @@ public class PlayerController : MonoBehaviour {
     void jump()
     {
         GetComponent<Rigidbody2D>().velocity = Vector2.up *jumphight;
+        AudioManager.instance.RandomizeSfx(jump1, jump2);
     }
 
 }

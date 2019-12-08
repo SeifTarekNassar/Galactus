@@ -13,6 +13,7 @@ public class Melee : MonoBehaviour
     public LayerMask whatIsEnemies;
     public float attackRange;
 
+    public AudioClip swordsound;
     private Animator anim;
     // Use this for initialization
     void Start()
@@ -29,7 +30,7 @@ public class Melee : MonoBehaviour
             //then you can attack;
             if(Input.GetKey(MeleeKey)){
                anim.SetTrigger("Attack");
-             
+               AudioManager.instance.RandomizeSfx(swordsound, swordsound);
                 Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange,whatIsEnemies);
                 for(int i = 0; i<enemiesToDamage.Length;i++){
                     enemiesToDamage[i].GetComponent<BaseEnemy>().takedamage(50);
