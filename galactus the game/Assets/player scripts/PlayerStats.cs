@@ -1,8 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerStats : MonoBehaviour {
+    public Slider HealthUI;
+    public Text coinsUI;
 
 	 public int health = 100;
     public int lives = 4;
@@ -65,6 +68,8 @@ public class PlayerStats : MonoBehaviour {
 
 	
 	void Update () {
+        HealthUI.value = health;
+        coinsUI.text ="" +coinscollected;
 		if(this.isImune == true)
         {
             spriteflicker();
