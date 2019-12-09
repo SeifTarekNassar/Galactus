@@ -1,10 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class LouieScript : MonoBehaviour {
 
-	public bool isfacingRight = false;
+    
+    public bool isfacingRight = false;
     public float maxspeed;
     public int damage = 2;
 	protected bool melee;
@@ -13,11 +15,17 @@ public class LouieScript : MonoBehaviour {
 	private float nextTimeHit = 0f;
 	public float minx;
 	public float maxx;
-	Transform T1;
+    public Slider healthUI2;
+    public Slider healthUI;
+    Transform T1;
+
 	public Transform firepoint;
-	public GameObject SpikyBullet;
-	public float nextTimeToFire = 0f;
-	public int health = 3;
+	public GameObject LaserBullet;
+
+	private float nextTimeToFire = 0f;
+
+	public int health = 100;
+    public int health2 = 100;
 
 	public void flip() 
 	{
@@ -52,7 +60,10 @@ public class LouieScript : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if(minx > transform.position.x && !isfacingRight)
+
+        healthUI.value = health;
+        healthUI2.value = health2;
+        if (minx > transform.position.x && !isfacingRight)
 		{
 			flip();
 		}
@@ -67,13 +78,17 @@ public class LouieScript : MonoBehaviour {
 	}
 	void OnCollisionStay2D(Collision2D other)
 	{
-		if (other.gameObject.name =="Player")
+		if (other.gameObject.tag =="Player")
 		{
 			if(Time.time>= nextTimeHit)
 			{
 			
 			melee = true;
+<<<<<<< HEAD
 			FindObjectOfType<PlayerStats>().takedamage(damage);	
+=======
+			FindObjectOfType<RickTakingDamage34>().TakeDamage(damage);	
+>>>>>>> LEVEL-4
 			}			
 		}
 
@@ -90,7 +105,7 @@ public class LouieScript : MonoBehaviour {
 	void OnTriggerStay2D(Collider2D other)
 	{
 					 
-		if (other.name =="Player")
+		if (other.tag =="Player")
 		{
 			 if(other.gameObject.transform.position.x <  T1.position.x && isfacingRight)
 			 {
@@ -108,7 +123,7 @@ public class LouieScript : MonoBehaviour {
 					
 					nextTimeToFire = Time.time + 2f;
 					firing = true;
-					Instantiate(SpikyBullet, firepoint.position, firepoint.rotation);
+					Instantiate(LaserBullet, firepoint.position, firepoint.rotation);
 	
 				}
 			} 
@@ -116,13 +131,26 @@ public class LouieScript : MonoBehaviour {
 	}
 	
 
-    public void takeDamage(int Damage) 
-	{
-
-            this.health = this.health - Damage;
+    public void TakeDamage(int Damage) 
+	{ 
+           this.health = this.health - Damage;
             if (this.health < 0)
+            {
                 this.health = 0;
-            if (this.health == 0) 
-                Destroy(gameObject);
+            }
+            if (this.health == 0)
+            {
+                this.health2 = this.health2 - Damage;
+                if (this.health2 < 0)
+                {
+                    this.health2 = 0;
+                }
+                if (health2 == 0)
+                {
+                    Destroy(this.gameObject);
+                }
+
+            } 
+                
     }
 }
