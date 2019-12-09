@@ -1,0 +1,1401 @@
+fileFormatVersion: 2
+guid: ad89c4601c8560d44b1746c4c3355374
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frame_apngframe0 - Copy_0
+    21300002: frame_apngframe0 - Copy_1
+    21300004: frame_apngframe0 - Copy_2
+    21300006: frame_apngframe0 - Copy_3
+    21300008: frame_apngframe0 - Copy_4
+    21300010: frame_apngframe0 - Copy_5
+    21300012: frame_apngframe0 - Copy_6
+    21300014: frame_apngframe0 - Copy_7
+    21300016: frame_apngframe0 - Copy_8
+    21300018: frame_apngframe0 - Copy_9
+    21300020: frame_apngframe0 - Copy_10
+    21300022: frame_apngframe0 - Copy_11
+    21300024: frame_apngframe0 - Copy_12
+    21300026: frame_apngframe0 - Copy_13
+    21300028: frame_apngframe0 - Copy_14
+    21300030: frame_apngframe0 - Copy_15
+    21300032: frame_apngframe0 - Copy_16
+    21300034: frame_apngframe0 - Copy_17
+    21300036: frame_apngframe0 - Copy_18
+    21300038: frame_apngframe0 - Copy_19
+    21300040: frame_apngframe0 - Copy_20
+    21300042: frame_apngframe0 - Copy_21
+    21300044: frame_apngframe0 - Copy_22
+    21300046: frame_apngframe0 - Copy_23
+    21300048: frame_apngframe0 - Copy_24
+    21300050: frame_apngframe0 - Copy_25
+    21300052: frame_apngframe0 - Copy_26
+    21300054: frame_apngframe0 - Copy_27
+    21300056: frame_apngframe0 - Copy_28
+    21300058: frame_apngframe0 - Copy_29
+    21300060: frame_apngframe0 - Copy_30
+    21300062: frame_apngframe0 - Copy_31
+    21300064: frame_apngframe0 - Copy_32
+    21300066: frame_apngframe0 - Copy_33
+    21300068: frame_apngframe0 - Copy_34
+    21300070: frame_apngframe0 - Copy_35
+    21300072: frame_apngframe0 - Copy_36
+    21300074: frame_apngframe0 - Copy_37
+    21300076: frame_apngframe0 - Copy_38
+    21300078: frame_apngframe0 - Copy_39
+    21300080: frame_apngframe0 - Copy_40
+    21300082: frame_apngframe0 - Copy_41
+    21300084: frame_apngframe0 - Copy_42
+    21300086: frame_apngframe0 - Copy_43
+    21300088: frame_apngframe0 - Copy_44
+    21300090: frame_apngframe0 - Copy_45
+    21300092: frame_apngframe0 - Copy_46
+    21300094: frame_apngframe0 - Copy_47
+    21300096: frame_apngframe0 - Copy_48
+    21300098: frame_apngframe0 - Copy_49
+    21300100: frame_apngframe0 - Copy_50
+    21300102: frame_apngframe0 - Copy_51
+    21300104: frame_apngframe0 - Copy_52
+    21300106: frame_apngframe0 - Copy_53
+    21300108: frame_apngframe0 - Copy_54
+    21300110: frame_apngframe0 - Copy_55
+    21300112: frame_apngframe0 - Copy_56
+    21300114: frame_apngframe0 - Copy_57
+    21300116: frame_apngframe0 - Copy_58
+    21300118: frame_apngframe0 - Copy_59
+    21300120: frame_apngframe0 - Copy_60
+    21300122: frame_apngframe0 - Copy_61
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 435
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53dc1c571b8b004c889685e2609c9d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 435
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef393284a130f64c89f3db2b0f05e7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35241aa439943e94fb54d3359201e447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 434
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573e7647b9419a64a8d4a5ba3fcb86d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 435
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b744207fdcb944d955d502e8e0f334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 435
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1614d1251bf7db47aa5f819254f95de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 436
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd798223f1916d47a159da0f49382a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 436
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ad5a66983f3e40a187057de520330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 435
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5c9648da663364fa72ae923d725ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 436
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c2a4a2222cc8448cf625e44b5ee37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 436
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01364db219dc2c84c871f546d9388633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 435
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03085ae7fb6614f8be882211582479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 435
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef877156d3889e4885e5f0430ac8134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 435
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159f2f0f3fe6d04c913bdb22acb3dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 350
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16dd1106be47ae418785e4086f065d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 351
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf0e3b7b751144094e4795abb3eeb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 351
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebeffdb3fdb644db429fed798dd313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 351
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a9df7a3faef340abca7cdb3d56e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d941e505e56241952d5a4d1304017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 351
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917d3648b371ea64da223955ede18719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 351
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f91653ff0cf2f94bb69f1dfb4e1c612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 351
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5f6f979a82a04f9e8227ed7f88434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 351
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832bfea9ae2216147acd61d0a1249833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 351
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc8bc8e3507b754293484112be0cfa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 351
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac160d929ec553a40b176bf3b97f63bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 351
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f19aabaeb3534ea7afe70e73e0ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 351
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c863a86f83b24468ea9a6657f3ee98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 351
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabea110974f16b4882dce10b739a5ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 268
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25efb313c2755cf419fb368e9484389a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 268
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c661f26b87d5740b992500d816eb8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 267
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cc72afe70dc44dae1c87dcb2b539e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 267
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f734b773505dd54488e772f9111822b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 267
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99324a3c5aa44149a52327ae1bee401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 267
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb237dee22ad6342b8871f325e9d226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 269
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d61782ab0e67e42bab8728ef431415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 269
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0a82fb70c1f841b0855fc02418b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 183
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3874fd4355cb3eb4daae6d93bf22bbd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c0665cb6bbe740befea4528871158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 185
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c24308641dd10c41852c8f9fa1a69f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 180
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c1e6a6f28f8e4a900a32ee0a3035f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 180
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d70639b02a1ae44093ba1ff116fd133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 179
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bdfe885ad7f0e4bb1bbe2170a350eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 176
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd260f8963c4040a5e646529273436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 178
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2793af2c4309364ba10be26ee6e60a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 182
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d02bf74633bb842814e8b61c6cf36c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 186
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a823ba5a8343d41ade68a40edc4b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 185
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ea2776524455948aa739d050e721c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 182
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b8720b86f71942b2507db6165be46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 99
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85859ebf90cc94341b4ccca88f20c4ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 99
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8555685791f78694da91522de4d6ade3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 99
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1876d3ba3c16e834c84a4ae74d67fd4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 15
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d0cd3be4fd2b940ba758f8bf73ef39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 15
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad347aab7e9449c4eb31a6ac0e236956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 15
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1a05dee3f558419c402f9546dec42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37fa9abe9278a44f8e640f63abb8c0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 14
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0069371bb3675c409a358b8f9d20407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 12
+        width: 61
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86d81320104c64ab463042556b4f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 13
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37022ad74d0f4419603dac20c948df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 12
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d312fd793ee9469fad7a1bcdd439a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 12
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537d0807ab0f7654ea26f5df7798adf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 12
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec9af9a335f4b4daefc3921961f9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frame_apngframe0 - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 12
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c026052c1aa64cb17e9bd65bbad0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5dfc02c2db8f91a40959a2458d75b538
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
