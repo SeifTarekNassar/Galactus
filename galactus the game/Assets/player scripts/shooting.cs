@@ -42,6 +42,10 @@ public class shooting : MonoBehaviour {
         RaycastHit2D hitinfo =Physics2D.Raycast(firepoint.position, firepoint.right);
         if (hitinfo)
         {
+            BaseEnemy enemy = hitinfo.transform.GetComponent<BaseEnemy>();
+            if (enemy != null) {
+                enemy.takedamage(damage);
+            }
             Debug.Log(hitinfo.transform.name);
        
        //Instantiate(impacteffect, hitinfo.point, Quaternion.identity);
