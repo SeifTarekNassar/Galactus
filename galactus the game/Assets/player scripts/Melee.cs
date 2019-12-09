@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Melee : MonoBehaviour
 {
+    public int damagee = 50;
     private float TimeBtwAttack;
     public float startTimeBtwAttack;
 
@@ -33,7 +34,7 @@ public class Melee : MonoBehaviour
                AudioManager.instance.RandomizeSfx(swordsound, swordsound);
                 Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange,whatIsEnemies);
                 for(int i = 0; i<enemiesToDamage.Length;i++){
-                    enemiesToDamage[i].GetComponent<BaseEnemy>().takedamage(50);
+                    enemiesToDamage[i].GetComponent<BaseEnemy>().takedamage(damagee);
                 }
             }
             TimeBtwAttack = startTimeBtwAttack;

@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 181c9e247ab6fce428083b557ed6142f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_0
+    21300002: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_1
+    21300004: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_2
+    21300006: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_3
+    21300008: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_4
+    21300010: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_5
+    21300012: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_6
+    21300014: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_7
+    21300016: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_8
+    21300018: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_9
+    21300020: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_10
+    21300022: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_11
+    21300024: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_12
+    21300026: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_13
+    21300028: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_14
+    21300030: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_15
+    21300032: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_16
+    21300034: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_17
+    21300036: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_18
+    21300038: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_19
+    21300040: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_20
+    21300042: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_21
+    21300044: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_22
+    21300046: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_23
+    21300048: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_24
+    21300050: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_25
+    21300052: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_26
+    21300054: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_27
+    21300056: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_28
+    21300058: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_29
+    21300060: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_30
+    21300062: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_31
+    21300064: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_32
+    21300066: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_33
+    21300068: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_34
+    21300070: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_35
+    21300072: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_36
+    21300074: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_37
+    21300076: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_38
+    21300078: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_39
+    21300080: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_40
+    21300082: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_41
+    21300084: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_42
+    21300086: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_43
+    21300088: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_44
+    21300090: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_45
+    21300092: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_46
+    21300094: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_47
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336fe7f67a72a4941b1a29f17c477984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 967
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1569ab3d43651f041a685b7537d058e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 967
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e01cf8faeaa84faa1ced57c67bf17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 967
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccd693e314477e489659df8593f3ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 967
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2fd133a8e19eb49ba4a2b1a38929ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 967
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e95f72435fcb4f80b5d230333d387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3901fa9f8625ffc47983967c3a29c878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 842
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff8e636773b464689a5ed5e965fcfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 842
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf258433a672024683c1ace6b94005e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 842
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a551c648e8e97c4bb5411bb28d34833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 842
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e124261e04581448e8a6b38938d581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_11
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 842
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30b949055fa4a4ab12b05269f8042b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 842
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62132599e77a6ce4d8493bd5a2be07c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 842
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd3ab63e24a524ba72e3db1aa86ce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 842
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76510bdba92d1f34399c066880b8467f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ea586dc62510f4a937ad9aaa715324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 714
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b4649922cb70547b9c7e4aa34a9834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 715
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a7e0ba7582bcf4d9688eeac23cd44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 715
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8db55da51edce4d9cda0ab51d7b6e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 715
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5df89cec2be34faa733b17cd677d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_20
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 715
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681492cd38e1064d88eea8487472185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 715
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63b77cf79699a4b8f4c947da19634d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 715
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ff0de87ca2e44f9331cbcfd3f49a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 715
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f9cf399e0f4a4ea04221378d00f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c65bf10e2f3164281d74c29d1d4cee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 645
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41c6b83128dee94c80f6f9641fd3efc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 644
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d8b5434aeb8b4887bdb8f111308bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 645
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6155fbe2c9d3b2d48b6d5ce48f680e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 645
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7d5ff5e96b3b4290e942b76096f95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 644
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626a1bfb77081704a935ee0bdc3c6b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_30
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 644
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a7a0ed84ec4114eb12faba773697de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 78
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b28e4ad2cab8942abc93f2c920806a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 504
+        width: 84
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba3b147c405264cb1762a856a285f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 504
+        width: 83
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f4a321046b63b4da97c155a8403dcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 504
+        width: 79
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d3545d0cde174290702d772a73a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_35
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 504
+        width: 79
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfa397afd78fb34ea5c4b56e510328e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c19cad45db0524f99a4c9f6f9c21d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 380
+        width: 104
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a52fdb090e1ef45a2b24f959b2ba54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 385
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785beb6fa0e4f2740828ed5c6984b627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290ae49bda517148ac919414488c6d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 258
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5edcc79da82934789c74cefc9ed5e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307f9c553669e8448078c3c8842a8a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1e862f5b63074e884eac8731cf770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acb4d7e3b2f9d4291fd45885cde1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4538b3bcd47c1e94cb5d0a6ac3b23f40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096ab43070dcca47b7a7a992e843362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af08a16b0327084999a10f31ca11c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sab2_sonic_sprite_sheet_001_by_supercommanderwolfy-d4ij56j_47
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec9134c0d2fe2741908b0f04a8d1083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1923d670f76d6b34593154c0ad39372c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
